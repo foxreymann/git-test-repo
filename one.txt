@@ -2,7 +2,5 @@ line one
 new headless code
 line two
 new headless code
-line three
 line four
-line five
 line six
